@@ -1,1 +1,6 @@
 Style Sheets are a collection of formatting rules.
+
+Three Types to link css rules in website.
+1.Inline Css : Using style attribute
+2.Internal Css: Using style attribute within the same html file
+3.External Css: Using sepeated css file and linking to html using link tag.
